@@ -1,0 +1,1 @@
+# macos-sonoma-finder-tistory
